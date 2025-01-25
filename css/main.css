@@ -1,0 +1,68 @@
+/* .bg-image-intre {
+    background-image: url("../img/choose-us-image-01.png");
+    background-color:black;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover; */
+}
+.bg-image-between {
+    background-image: url("../img/cta-bg.jpg");
+    background-color: black;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-shadow {
+    background-color: rgba(0, 102, 255, 0.295);
+}
+.bg-shadow2 {
+    background-color: rgba(165, 171, 180, 0.466);
+    background: transparent;
+}
+.bg-shadow3 {
+    background-color: rgba(0, 102, 255, 0.295);
+}
+
+a.hover-1 {
+    position: relative;
+    color: white!important;
+}
+
+a.hover-1:hover {
+    color: red!important;
+}
+.card {
+    cursor: pointer;
+    transition: ease 0.5s;
+}
+.card:hover {
+    transform: translateY(-15px);
+}
+.card1 {
+    cursor: pointer;
+    transition: ease 0.7s;
+}
+.card1:hover {
+    transform: translateY(-10px);
+}
+.bg-blue {
+    background-color:#0D1226;
+   
+}
+.border-blue {
+    border:  solid #0D1226;
+    background-color: #0D1226;
+    border-radius: #0D1226;
+}
+.main-border {
+    background-color: #565F6E;
+}
+
+ .border1 {
+    border: 1px solid #424B5C;
+    border-radius:  #565F6E;
+    background: transparent;
+ }
